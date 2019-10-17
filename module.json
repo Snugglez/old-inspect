@@ -1,0 +1,11 @@
+{
+	"disableAutoUpdate": false,
+	"servers": ["https://raw.githubusercontent.com/Snugglez/old-inspect/master/"],
+	"supportUrl": "https://github.com/Snugglez/old-inspect/issues",
+	"author": "Snug",
+	"name": "old-inspect",
+	"options": {
+		"guiName": "Old Inspect"
+	},
+	"description": "Reverts /inspect and /look to move the camera to the target like it was prior to patch 85"
+}
