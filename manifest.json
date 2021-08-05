@@ -1,8 +1,10 @@
 {
 	"files": {
-		"index.js": "ea22a168a2ed5e34f4541508b98c5884f44a78927eafb78aeb73cfdcf495ca7d"
+		"README.md": "e2c8cdc4152c3a5aa560a93169063d11ae5940218efbd921176f1d7cf01c78a8",
+		"index.js": "319bdc2e0c7871f5e6b0d7ea3597749f4b53b99bda8f16cd4863fb7ca12ae392",
+		"module.json": "ac48d3ae2addec709f9f7cd17ae4eb065f6109898eef333b11f373a5a4aa2917"
 	},
 	"defs": {
-		"C_REQUEST_USER_PAPERDOLL_INFO": 3
+		"C_REQUEST_USER_PAPERDOLL_INFO": [3,4]
 	}
 }
